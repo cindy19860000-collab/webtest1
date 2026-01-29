@@ -1,0 +1,7 @@
+{
+  "name": "LusoLearn - PT-PT for Chinese Beginners",
+  "description": "An interactive European Portuguese learning app specifically designed for Chinese speakers starting from scratch. Features situational dialogues, daily micro-lessons, and AI-powered pronunciation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
